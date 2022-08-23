@@ -1,5 +1,5 @@
 ### About me
-- 👋 Hey! I'm Sasha and I'm self-taught Data Scientist
+- 👋 Hey! I'm Sasha and I'm junior Data Scientist
 -    :shipit: I enjoy digging into the data, visualizing and looking for hidden patterns, 
      generating features for models and training them.
 - :mortar_board: You can see here my educational and pet-projects 
